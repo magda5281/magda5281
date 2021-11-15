@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magda5281
-- 👀 I’m interested in yoga, crossfit, longevity, trvel, Javascript
-- 🌱 I’m currently learning HTML,CSS, Javascript, Bootstrap
+- 👀 I’m interested in yoga, crossfit, skiing, longevity including fasting, paleo diet and more, experiential trvel, and Javascript :-) 
+- 🌱 I have completed courses where I used HTML,CSS, SASS, Javascript, Bootstrap, React, Axios, Firebase
 - 📫 How to reach me: https://www.linkedin.com/in/magdalena-gozdalik-3458202b/
 
 <!---
