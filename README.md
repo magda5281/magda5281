@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @magda5281
+- 👋 Hi, I’m Magda
 - 👀 I’m interested in yoga, crossfit, skiing, longevity including fasting, paleo diet and more, experiential trvel, and Javascript :-) 
-- 🌱 I have participated in projects where I used React, JavaScript, ChakraUI, Remix, Next.js, HTML,CSS, SASS, Bootstrap, Axios, API, Node.js, Express, MongoDB, Firebase, PostgreSQL
+- 🌱 I have worked on projects where I used React, JavaScript, ChakraUI, Remix, Next.js, HTML,CSS, SASS, Bootstrap, Axios, API, Node.js, Express, MongoDB, Firebase, PostgreSQL
 - 📫 How to reach me: https://www.linkedin.com/in/magdalena-gozdalik/
 
 <!---
